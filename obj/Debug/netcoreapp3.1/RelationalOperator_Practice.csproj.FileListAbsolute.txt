@@ -1,0 +1,13 @@
+C:\Users\owner\source\repos\RelationalOperator_Practice\RelationalOperator_Practice\bin\Debug\netcoreapp3.1\RelationalOperator_Practice.exe
+C:\Users\owner\source\repos\RelationalOperator_Practice\RelationalOperator_Practice\bin\Debug\netcoreapp3.1\RelationalOperator_Practice.deps.json
+C:\Users\owner\source\repos\RelationalOperator_Practice\RelationalOperator_Practice\bin\Debug\netcoreapp3.1\RelationalOperator_Practice.runtimeconfig.json
+C:\Users\owner\source\repos\RelationalOperator_Practice\RelationalOperator_Practice\bin\Debug\netcoreapp3.1\RelationalOperator_Practice.runtimeconfig.dev.json
+C:\Users\owner\source\repos\RelationalOperator_Practice\RelationalOperator_Practice\bin\Debug\netcoreapp3.1\RelationalOperator_Practice.dll
+C:\Users\owner\source\repos\RelationalOperator_Practice\RelationalOperator_Practice\bin\Debug\netcoreapp3.1\RelationalOperator_Practice.pdb
+C:\Users\owner\source\repos\RelationalOperator_Practice\RelationalOperator_Practice\obj\Debug\netcoreapp3.1\RelationalOperator_Practice.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\RelationalOperator_Practice\RelationalOperator_Practice\obj\Debug\netcoreapp3.1\RelationalOperator_Practice.AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\RelationalOperator_Practice\RelationalOperator_Practice\obj\Debug\netcoreapp3.1\RelationalOperator_Practice.AssemblyInfo.cs
+C:\Users\owner\source\repos\RelationalOperator_Practice\RelationalOperator_Practice\obj\Debug\netcoreapp3.1\RelationalOperator_Practice.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\RelationalOperator_Practice\RelationalOperator_Practice\obj\Debug\netcoreapp3.1\RelationalOperator_Practice.dll
+C:\Users\owner\source\repos\RelationalOperator_Practice\RelationalOperator_Practice\obj\Debug\netcoreapp3.1\RelationalOperator_Practice.pdb
+C:\Users\owner\source\repos\RelationalOperator_Practice\RelationalOperator_Practice\obj\Debug\netcoreapp3.1\RelationalOperator_Practice.genruntimeconfig.cache
